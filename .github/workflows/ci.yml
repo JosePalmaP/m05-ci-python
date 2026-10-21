@@ -6,7 +6,7 @@
 #   - pull_request hacia main 
 #
 # Jobs:
-#   1. lint  — verifica estilo con flake8 (corre primero)
+#   1. lint  — verifica estilo con flake8 ( corre primero )
 #   2. test  — ejecuta pytest en matrix Python 3.10, 3.11, 3.12
 
 name: CI — Python
