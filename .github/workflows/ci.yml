@@ -3,7 +3,7 @@
 # Pipeline CI para proyecto Python.
 # Se dispara en:
 #   - push a main y ramas feature/**
-#   - pull_request hacia main 
+#   - pull_request hacia main
 #
 # Jobs:
 #   1. lint  — verifica estilo con flake8 (corre primero)
